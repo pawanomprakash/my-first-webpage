@@ -1,0 +1,25 @@
+
+/*background-color: rgb(255, 166, 0);*/
+   /* color: rgb(48, 42, 165);*/
+    
+  @import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+*{
+margin: 0; padding:0; 
+}
+body
+{font-family: 'Borel', cursive;
+
+}
+h1{background-color: navy}
+h2 
+{ background-color:royalblue;
+    
+}
+h3{background-color: aqua;}
+p.name{
+    background-color: red;
+}
+p.welcome{ 
+    background-color:blue;
+}
+
